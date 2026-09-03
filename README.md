@@ -135,5 +135,3 @@ Depois do login e proteção:
 git add .
 git commit -m "feat: adiciona login e rota protegida"
 ```
-
-Crie no GitHub um repositório chamado `oficina-guilherme` e conecte o repositório local ao remoto.
